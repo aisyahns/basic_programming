@@ -1,3 +1,5 @@
+package Basic;
+
 public class duaA {
 
     public static void main(String[] args) {

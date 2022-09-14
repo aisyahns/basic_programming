@@ -1,3 +1,5 @@
+package Basic;
+
 public class Prime {
 
     private static boolean primeNumber(int n){

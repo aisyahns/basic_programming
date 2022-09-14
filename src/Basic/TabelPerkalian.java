@@ -1,3 +1,5 @@
+package Basic;
+
 public class TabelPerkalian {
     public static void main(String[] args) {
 

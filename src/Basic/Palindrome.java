@@ -1,3 +1,5 @@
+package Basic;
+
 public class Palindrome {
 
     private static boolean palindrome(String kata){

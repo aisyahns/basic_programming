@@ -1,3 +1,5 @@
+package Basic;
+
 public class DrawXYZ {
 
     public static void main(String[] args) {

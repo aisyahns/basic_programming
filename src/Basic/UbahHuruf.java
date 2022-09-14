@@ -1,3 +1,5 @@
+package Basic;
+
 public class UbahHuruf {
 
     public static void main(String[] args) {
